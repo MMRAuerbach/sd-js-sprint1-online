@@ -1,3 +1,3 @@
-# Sprint 1 - hulp
+# JavaScript :: Sprint 1 :: Oefenopdrachten
 
-Zie de HTML en JS file voor meer hulp.
+Dit zijn de eerste oefenopdrachten voor de lessen JavaScript 
