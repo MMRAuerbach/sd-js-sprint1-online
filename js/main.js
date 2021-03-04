@@ -7,8 +7,8 @@
 
 
 /* PROMPT EXAMPLE */ 
-//let myName = prompt('What is your name?', '');
-//console.log(myName);
+// const myName = prompt('What is your name?', '');
+// console.log(myName);
 
 
 
@@ -16,7 +16,7 @@
 
 
 /* CONFIRM EXAMPLE */
-// let myChoise = confirm('Are you sure?');
+// const myChoise = confirm('Are you sure?');
 // console.log(myChoise);
 // if (myChoise) {
 //     console.log('He chose wiseley');
@@ -32,12 +32,7 @@
 // function myAlert() {
 //     alert('this is the alert from myAlert');
 // }
-
 // myAlert();
-
-
-
-
 
 
 
@@ -46,8 +41,8 @@
 
 /* Alles een beetje samen */
 // const studentNumber = 20049850;
-// let studentName = promt('What is your name?', '');
-// let wantsAnAlert = confirm('Do you want an alert with your information?');
+// const studentName = prompt('What is your name?', '');
+// const wantsAnAlert = confirm('Do you want an alert with your information?');
 
 // if (wantsAnAlert) {
 //     showAlert(`Your studentnumber = ${studentNumber} and your name is ${studentName}`);
